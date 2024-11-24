@@ -42,7 +42,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.wave_app_firebase2"
+        applicationId "com.example.wave_app_firebase2" // Doit correspondre à l'ID dans Firebase
         minSdkVersion 21
         targetSdkVersion 34
         versionCode 1
