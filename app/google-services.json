@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "563912140441",
+    "project_id": "digitalwallet-app",
+    "storage_bucket": "digitalwallet-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563912140441:android:23bfd9c3960a3ad62ffa08",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563912140441-dmuol36hk131fjtgv9vvjq3edndtdfhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPqLC6E43CynNZ7fPVeHQI-2223Cvcn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563912140441-dmuol36hk131fjtgv9vvjq3edndtdfhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563912140441:android:92e32ba362c7f2fc2ffa08",
+        "android_client_info": {
+          "package_name": "com.example.wave_app_firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563912140441-dmuol36hk131fjtgv9vvjq3edndtdfhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPqLC6E43CynNZ7fPVeHQI-2223Cvcn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563912140441-dmuol36hk131fjtgv9vvjq3edndtdfhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
